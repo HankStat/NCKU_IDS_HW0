@@ -1,0 +1,4 @@
+Please name this text file as the following format : name_ID
+(e.g. ¤ý¤p©ú_H12345678)
+
+Otherwise, about 5% of the score of this homework will be deducted.
